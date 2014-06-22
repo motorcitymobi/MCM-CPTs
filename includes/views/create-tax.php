@@ -31,7 +31,7 @@
 				<?php
 				$alt = true;
 
-				$cpt_taxonomies = array_merge( $this->property_features_taxonomy(), get_option( $this->settings_field ) );
+				$cpt_taxonomies = array_merge( $this->custompost_features_taxonomy(), get_option( $this->settings_field ) );
 
 				foreach ( (array) $cpt_taxonomies as $id => $data ) :
 				?>
