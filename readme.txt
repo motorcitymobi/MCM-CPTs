@@ -7,6 +7,25 @@ Stable tag: 1.1.0
 
 This plugin adds a Listings custom post type for Real Estate agents.
 
+== MCM Customizations ==
+
+AgentPress =	MCM
+agentpress = 	mcm
+
+Listings =	CPTs
+listings =	cpts
+
+Listing = 	CPT
+listing = 	cpt
+
+Properties =	CustomPosts
+properties =	customposts
+
+Property =	CustomPost
+property = 	custompost
+
+
+
 == Description ==
 
 The AgentPress Listings plugin uses custom post types, custom taxonomies, and widgets to create a listings management system.
