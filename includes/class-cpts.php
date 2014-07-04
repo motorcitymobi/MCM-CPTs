@@ -83,6 +83,7 @@ class MCM_CPTs {
 				'menu_position' => 6,
 				'menu_icon'     => 'dashicons-admin-home',
 				'has_archive'   => true,
+				// 'supports'      => array( 'title', 'editor', 'comments', 'thumbnail', 'genesis-seo', 'genesis-layouts', 'genesis-simple-sidebars' ),
 				'supports'      => array( 'title', 'editor', 'comments', 'thumbnail', 'genesis-seo', 'genesis-layouts', 'genesis-simple-sidebars' ),
 				'rewrite'       => array( 'slug' => 'cpts' ),
 			)
